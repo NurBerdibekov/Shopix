@@ -9,3 +9,5 @@ AirPods 3
 
 MacBook Pro 13 
 MacBook Air 16
+
+iMac 
